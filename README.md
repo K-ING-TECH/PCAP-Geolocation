@@ -1,7 +1,8 @@
 Overview:
 How to use Wireshark to analyze a packet capture (PCAP) file, correlate IP addresses with geographic locations, and visualize the data to identify potential security threats, such as distributed denial-of-service (DDoS) attacks.
 
-Steps:
+---------------------------------------------------------------------------------
+
 1. Install and Set Up MaxMind Database
 To get started, we need to install a GeoIP database that Wireshark can use to resolve IP addresses to geographic locations.
 
